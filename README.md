@@ -48,6 +48,17 @@ The objective is to improve the detection of disaster-related tweets while maint
 * SMOTE and Random Oversampling provided the most effective improvements across evaluated models.
 
 
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* PyTorch
+* NLTK
+* Imbalanced-Learn
+* Matplotlib
+
 ## Project Structure
 
 ```text
