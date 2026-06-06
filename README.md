@@ -4,17 +4,41 @@ This project explores the challenge of imbalanced text classification using the 
 
 The objective is to improve the detection of disaster-related tweets while maintaining balanced overall performance across evaluation metrics such as Recall, F1-Score, ROC-AUC, and PR-AUC.
 
-## Features
+## Project Workflow
 
-* Text preprocessing and cleaning
-* TF-IDF vectorization
+### 1. Data Preprocessing
+
+* Text cleaning and normalization
+* Tokenization
+* Stopword removal
+* Stemming / Lemmatization
+
+### 2. Feature Extraction
+
+* TF-IDF Vectorization
+
+### 3. Model Training
+
 * Logistic Regression
 * Random Forest
 * Neural Network
+
+### 4. Imbalance Handling
+
 * Class Weighting
 * Random Oversampling
 * SMOTE
-* Performance evaluation using multiple metrics
+
+### 5. Evaluation
+
+* Accuracy
+* Precision
+* Recall
+* F1-Score
+* ROC-AUC
+* PR-AUC
+* Confusion Matrix
+
 
 ## Project Structure
 
