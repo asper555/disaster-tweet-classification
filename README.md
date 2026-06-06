@@ -87,10 +87,14 @@ pip install -r requirements.txt
 
 ## Usage
 
-Open and run:
+1. Download the dataset and place `tweets.csv` inside the `data/` directory.
+2. Install the required dependencies:
 
-```text
-notebooks/disaster_tweet_classification.ipynb
+```bash
+pip install -r requirements.txt
 ```
 
-using Jupyter Notebook.
+3. Launch Jupyter Notebook.
+4. Open `notebooks/disaster_tweet_classification.ipynb`.
+5. Run all cells sequentially.
+
