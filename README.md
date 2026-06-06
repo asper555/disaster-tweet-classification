@@ -54,7 +54,12 @@ disaster-tweet-classification/
 
 ## Dataset
 
-Download the Disaster Tweets dataset from Kaggle and place `tweets.csv` inside the `data/` directory.
+Dataset Source: Disaster Tweets Dataset on Kaggle
+
+https://www.kaggle.com/datasets/vstepanenko/disaster-tweets/data
+
+Download the dataset and place `tweets.csv` inside the `data/` directory before running the notebook.
+
 
 ## Installation
 
