@@ -1,6 +1,8 @@
-# Disaster Tweet Classification
+# Imbalanced Disaster Tweet Classification
 
-Machine Learning project for classifying disaster-related tweets using text classification techniques and imbalance handling methods.
+This project explores the challenge of imbalanced text classification using the Disaster Tweets dataset. Multiple machine learning models, including Logistic Regression, Random Forest, and Neural Networks, are trained and evaluated before and after applying imbalance handling techniques such as Class Weighting, Random Oversampling, and SMOTE.
+
+The objective is to improve the detection of disaster-related tweets while maintaining balanced overall performance across evaluation metrics such as Recall, F1-Score, ROC-AUC, and PR-AUC.
 
 ## Features
 
