@@ -40,6 +40,14 @@ The objective is to improve the detection of disaster-related tweets while maint
 * Confusion Matrix
 
 
+## Key Findings
+
+* Logistic Regression with SMOTE achieved the strongest overall performance in terms of Accuracy and F1-Score.
+* Random Forest with Random Oversampling achieved the highest Recall for disaster tweet detection and the best ROC-AUC.
+* Imbalance handling techniques significantly improved minority-class detection compared to baseline models.
+* SMOTE and Random Oversampling provided the most effective improvements across evaluated models.
+
+
 ## Project Structure
 
 ```text
