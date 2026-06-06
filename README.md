@@ -79,12 +79,6 @@ Download the dataset and place `tweets.csv` inside the `data/` directory before 
 
 
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Download the dataset and place `tweets.csv` inside the `data/` directory.
