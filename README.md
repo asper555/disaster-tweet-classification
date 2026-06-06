@@ -73,7 +73,7 @@ disaster-tweet-classification/
 
 ## Dataset
 
-Dataset Source: Disaster Tweets Dataset on Kaggle
+Dataset Source: [Disaster Tweets Dataset (Kaggle)]
 
 https://www.kaggle.com/datasets/vstepanenko/disaster-tweets/data
 
